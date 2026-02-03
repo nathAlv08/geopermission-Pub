@@ -18,7 +18,7 @@ void main() async {
   try {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyCPeXHv1_f-73PBwNCsKQNOGIdpfqZBTIY",
+        apiKey: "REPLACE_WITH_YOURS",
         authDomain: "geotagtime.firebaseapp.com",
         projectId: "geotagtime",
         messagingSenderId: "5698991280",
